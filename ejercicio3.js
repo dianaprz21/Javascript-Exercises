@@ -19,5 +19,5 @@ const producto = numeros.reduce(
       1,
     );
 
-console.log(suma);
-console.log(producto);
+console.log(`El resultado de la suma es: ${suma}`);
+console.log(`El resultado de la multiplicación es: ${producto}`);

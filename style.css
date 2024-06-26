@@ -1,0 +1,21 @@
+h1 {
+    color: #BFA9E3;
+    
+}
+
+body {
+    background-color: rgb(33, 41, 41);
+    color: cadetblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button {
+    background-color: #699be7;
+    color: #ffffff;
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
